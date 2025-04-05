@@ -56,4 +56,4 @@ A análise foi dividida em várias etapas:
 1. Clone o repositório:
 
 ```bash
-git clone http://
+git clone https://github.com/annagaspareto/nfl-draft.git
