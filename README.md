@@ -1,6 +1,6 @@
 # Análise de Dados - NFL: Draft, Seleções All-Pro e Talentos Universitários
 
-Neste repositório, realizo uma análise detalhada sobre o desempenho dos jogadores de futebol americano profissional, com foco no Draft da NFL, nas seleções All-Pro e nas universidades responsáveis pela formação de estrelas da liga. Utilizando dados históricos, busquei revelar padrões e insights sobre o impacto da posição no Draft, a performance de jogadores ao longo de suas carreiras e como as universidades e franquias têm moldado o talento da NFL.
+Neste repositório, realizo uma análise detalhada sobre o desempenho dos jogadores de futebol americano profissional, com foco no Draft da NFL, nas seleções All-Pro e nas universidades responsáveis pela formação de estrelas da liga. Utilizando dados históricos obtidos do [Pro Football Reference](https://www.pro-football-reference.com), busquei revelar padrões e insights sobre o impacto da posição no Draft, a performance de jogadores ao longo de suas carreiras e como as universidades e franquias têm moldado o talento da NFL.
 
 ## Sumário
 
@@ -31,7 +31,7 @@ O objetivo principal dessa análise foi entender como fatores como a posição n
 
 A análise foi dividida em várias etapas:
 
-1. **Coleta e Preparação dos Dados**: Utilizando dados históricos de Draft e seleções All-Pro de diversas fontes confiáveis da NFL, os dados foram organizados e limpos para garantir que fossem consistentes e prontos para análise.
+1. **Coleta e Preparação dos Dados**: Utilizando dados históricos de Draft e seleções All-Pro de diversas fontes confiáveis, principalmente o [Pro Football Reference](https://www.pro-football-reference.com), os dados foram organizados e limpos para garantir que fossem consistentes e prontos para análise.
 
 2. **Análise Estatística**: Realizei uma análise de regressão linear para verificar a correlação entre a posição no Draft e o número de seleções All-Pro. Também calculei os valores de R² e p-valor para testar a força da correlação.
 
