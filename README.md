@@ -8,8 +8,6 @@ Neste repositório, realizo uma análise detalhada sobre o desempenho dos jogado
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Funciona a Análise](#como-funciona-a-análise)
 - [Conclusões Principais](#conclusões-principais)
-- [Como Rodar o Projeto](#como-rodar-o-projeto)
-- [Licença](#licença)
 
 ## Objetivo
 
@@ -50,10 +48,3 @@ A análise foi dividida em várias etapas:
 - **Universidades**: Alabama segue firme como a principal fornecedora de talentos para a NFL, com 20 seleções All-Pro, enquanto LSU também tem mostrado sua força, com 12,5 seleções.
 
 - **Franquias em Ascensão**: Os **Detroit Lions**, que por muito tempo foram uma franquia de baixo desempenho, se destacaram por sua capacidade de identificar jogadores All-Pro através do Draft, liderando essa métrica.
-
-## Como Rodar o Projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/annagaspareto/nfl-draft.git
